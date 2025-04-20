@@ -1,0 +1,14 @@
+[project]
+name = "crewai-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=0.114.0",
+    "dotenv>=0.9.9",
+    "langchain>=0.3.23",
+    "langchain-community>=0.3.21",
+    "litellm>=1.60.2",
+    "ollama>=0.4.8",
+]
